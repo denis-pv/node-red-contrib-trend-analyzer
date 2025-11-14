@@ -39,3 +39,11 @@ npm install github:denis-pv/node-red-contrib-trend-analyzer
 
 ![Node Settings](images/nodered2.png)
 *Example 2*
+
+## Usage
+
+1. Add node to flow
+2. Configure settings:
+   - **Window Size**: 5-100 points
+   - **Multiplier**: 0.01-5.0
+   - **Interval**: 0-60 sec
