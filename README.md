@@ -16,6 +16,13 @@ A Node-RED node for real-time trend analysis with sliding window and slope calcu
 
 cd ~/.node-red
 
+npm install github:denis-pv/node-red-contrib-trend-analyzer
+
+## Installation, Windows 
+
+```bash 
+
+cd %USERPROFILE%/.node-red
+
 npm install denis-pv/node-red-contrib-trend-analyzer
 
-restart nodered
