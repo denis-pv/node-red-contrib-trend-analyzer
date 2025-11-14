@@ -1,0 +1,36 @@
+{
+  "name": "node-red-contrib-trend-analyzer",
+  "version": "1.0.0",
+  "description": "Node-RED node for trend analysis with sliding window and slope calculation",
+  "main": "trend-analyzer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-red",
+    "trend",
+    "analysis",
+    "slope",
+    "statistics",
+    "time-series"
+  ],
+  "node-red": {
+    "version": ">=3.0.0",
+    "nodes": {
+      "trend-analyzer": "trend-analyzer.js"
+    }
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denis-pv/node-red-contrib-trend-analyzer"
+  },
+  "author": Denis PV <zwp@bk.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denis-pv/node-red-contrib-trend-analyzer/issues"
+  },
+  "homepage": "https://github.com/denis-pv//node-red-contrib-trend-analyzer#readme"
+}
