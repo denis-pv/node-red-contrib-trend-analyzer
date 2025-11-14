@@ -10,7 +10,12 @@ A Node-RED node for real-time trend analysis with sliding window and slope calcu
 - Configurable minimum interval for data collection
 - Adaptive trend channels for anomaly detection
 
-## Installation
+## Installation, Ubuntu Server
 
-```bash
-npm install node-red-contrib-trend-analyzer
+```bash 
+
+cd ~/.node-red
+
+npm install denis-pv/node-red-contrib-trend-analyzer
+
+restart nodered
