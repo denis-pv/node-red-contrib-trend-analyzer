@@ -27,10 +27,10 @@
     "type": "git",
     "url": "https://github.com/denis-pv/node-red-contrib-trend-analyzer"
   },
-  "author": Denis PV <zwp@bk.ru>",
+  "author": "Denis PV <zwp@bk.ru>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/denis-pv/node-red-contrib-trend-analyzer/issues"
   },
-  "homepage": "https://github.com/denis-pv//node-red-contrib-trend-analyzer#readme"
+  "homepage": "https://github.com/denis-pv/node-red-contrib-trend-analyzer#readme"
 }
