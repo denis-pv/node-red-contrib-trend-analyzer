@@ -18,6 +18,8 @@ cd ~/.node-red
 
 npm install github:denis-pv/node-red-contrib-trend-analyzer
 
+# Then restart Node-RED
+```
 ## Installation, Windows 
 
 ```bash 
@@ -26,3 +28,5 @@ cd %USERPROFILE%/.node-red
 
 npm install denis-pv/node-red-contrib-trend-analyzer
 
+# Then restart Node-RED
+```
