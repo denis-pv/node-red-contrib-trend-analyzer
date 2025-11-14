@@ -30,3 +30,12 @@ npm install github:denis-pv/node-red-contrib-trend-analyzer
 
 # Then restart Node-RED
 ```
+
+
+## Screenshots
+
+![Node Settings](images/nodered1.png)
+*Example 1*
+
+![Node Settings](images/nodered2.png)
+*Example 2*
